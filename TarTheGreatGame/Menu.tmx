@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="1920" height="1080" tilewidth="1" tileheight="1" infinite="0" nextlayerid="3" nextobjectid="26">
+ <tileset firstgid="1" name="Button" tilewidth="380" tileheight="120" tilecount="1" columns="1">
+  <image source="UI/Button.png" width="380" height="120"/>
+ </tileset>
+ <tileset firstgid="2" name="Menu" tilewidth="1920" tileheight="1080" tilecount="1" columns="1">
+  <image source="UI/Menu.jpeg" width="1920" height="1080"/>
+ </tileset>
+ <objectgroup id="2" name="Objectlayer">
+  <object id="21" type="Menu" gid="2" x="0" y="1080" width="1920" height="1080"/>
+  <object id="22" name="Load1" type="MenuElement" gid="1" x="139.394" y="528.545" width="380" height="120"/>
+  <object id="23" name="Load2" type="MenuElement" gid="1" x="869.394" y="562.545" width="380" height="120"/>
+  <object id="24" name="Load3" type="MenuElement" gid="1" x="1359.39" y="506.545" width="380" height="120"/>
+  <object id="25" name="Quit" type="MenuElement" gid="1" x="759.394" y="882.545" width="380" height="120"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,10 @@
+runSpeed=0.3
+jumpSpeed=0.45
+gravityOverTime=0.0015
+jumpTimeMax=375
+jumpTimeMin=125
+animationSpeedBase=0.01
+gravityMax=0.6
+attractMultiplyer=0.001
+repulseMultiplyer=0.001
+turnMirrorDistance=200
