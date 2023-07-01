@@ -20,6 +20,7 @@ To play this game you just need to download this repository as a ZIP and extract
 It's as easy as that!
 
 If you press escape anytime during the game, you will be transported to the menu screen. The only progressed saved are the doors you opened and the items you collected.
+Be careful though! If you want to continue the game at a later time, you need to exit by pressing escape and then quit in the menu. Otherwise your progress will not be saved!
 
 If you want to start a new game, simply delete the file "saveGame.txt" inside of the folder "TarTheGreatGame".
 
