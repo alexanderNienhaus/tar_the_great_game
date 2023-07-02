@@ -6,7 +6,7 @@
 <h4 align="center">A physics-based puzzle game</h4>
 
 <p align="center">
-  <img src="./preview/showcase.gif" width="369">
+  <img src="./preview/ability_showcase.gif" width="369">
 </p>
 
 ## Inroduction
